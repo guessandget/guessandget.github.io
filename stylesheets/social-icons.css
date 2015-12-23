@@ -177,6 +177,7 @@
 }
 .social-icon_VK:before {
 	content: "\e932";
+	color: #4c75a3;
 }
 .social-icon_Website:before {
 	content: "\e933";
